@@ -101,7 +101,7 @@ public class Vertice<T> {
     }
 
     /**
-     * Retorna o vértice anterior no caminho mínimo (para Dijkstra).
+     * Retorna o vértice anterior no caminho mínimo (para Dijkstra)..
      *
      * @return O vértice anterior.
      */
